@@ -1,0 +1,10 @@
+[general]
+name=Buffer Features
+description=Создаёт буфер 100 единиц вокруг каждой фичи активного слоя
+version=1.0
+qgisMinimumVersion=3.0
+author=Федотов Матвей
+email= motya.fedotov@bk.ru
+
+class_name=BufferFeatures
+icon=icon.png
